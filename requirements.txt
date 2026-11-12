@@ -1,0 +1,2 @@
+# J7 PRO AI LITE
+# No external dependencies required
